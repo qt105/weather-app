@@ -1,0 +1,15 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "A simple weather app in electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qt1_05",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "electron": "^32.0.1"
+  }
+}
